@@ -9,8 +9,8 @@ function intro(){
             <h3 className="text-2xl py-2">Software Developer</h3>
             <p className="text-md mx-[150px] leading-8 text-gray-700">
               I'm a graduate student currently pursuing my Master of Computer
-              Science. I have previous experience in web development and
-              database management roles. Currently looking for internships.
+              Science at Arizona State University, Tempe. I have previous experience in web development and
+              database management roles. Currently looking for internships and co-op opportunities.
             </p>
         </div>
     );
