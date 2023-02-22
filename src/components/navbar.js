@@ -3,8 +3,8 @@ import React from "react";
 function navbar(){
     return(
         <nav className=" py-10 mb-12 flex justify-between">
-            <h1 className="font-burtons text-xl">Developer By Mohith</h1>
-            <ul className="flex items-center">
+            <h1 className="font-burtons text-3xl">My Portfolio</h1>
+            <ul className="flex items-center text-teal-600">
               {/* <li>
                 <BsFillMoonStarsFill
                   onClick={() => setDarkMode(!darkMode)}
@@ -19,6 +19,11 @@ function navbar(){
                   Resume
                 </a>
               </li>
+              <li className="mx-5">Skills</li>
+              <li className="mx-5">Experience</li>
+              <li className="mx-5">Research Papers</li>
+              <li className="mx-5">Projects</li>
+              <li className="mx-5">Contact Me</li>
             </ul>
         </nav>
     )
