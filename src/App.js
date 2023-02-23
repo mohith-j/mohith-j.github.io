@@ -8,6 +8,7 @@ import Research from "./components/research.js";
 import Projects from "./components/projects.js";
 import Contactme from "./components/contactme.js"; 
 import { BrowserRouter } from "react-router-dom";
+import Footer from "./components/footer.js"
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Research/>
         <Projects/>
         <Contactme/>
+        <Footer/>
       </BrowserRouter>
       
     </section>

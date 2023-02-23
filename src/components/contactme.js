@@ -10,12 +10,12 @@ function contactme() {
       <p className="py-2 text-center text-[20px]">
         Want to discuss about something?
       </p>
-      <p className="py-2 text-center text-gray-700 text-[20px]">
+      <p className="py-2 text-center text-gray-700 text-[20px] hover:scale-110 transition-all">
         <a href="mailto:mjothika@asu.edu" target="_blank">
           Shoot me a mail <AiFillMail className="inline-block  text-3xl" />
         </a>
       </p>
-      <p className="py-2 text-center text-gray-700 text-[20px]">
+      <p className="py-2 text-center text-gray-700 text-[20px] hover:scale-110 transition-all">
         <a href="https://www.linkedin.com/in/mohithj/" target="_blank">
           Message me on Linkedin{" "}
           <AiFillLinkedin className="inline-block text-3xl" />

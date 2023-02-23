@@ -5,12 +5,12 @@ function projects() {
   return (
     <section id="projects">
       <div>
-        <h3 className="text-3xl text-teal-600 text-center py-1  dark:text-white ">
+        <h3 className="text-3xl text-teal-600 text-center py-1">
           Projects
         </h3>
       </div>
       <div className="mt-5 grid grid-cols-3 gap-10">
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 flex-1 hover:scale-110 transition-all">
           <h3 className="text-lg font-medium pb-2">
             <a
               href="https://github.com/mohith-j/SDSE-Project-Phase-2"
@@ -33,7 +33,7 @@ function projects() {
             deck.gl React library to render complex visualisations.
           </p>
         </div>
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  flex-1 hover:scale-110 transition-all">
           <h3 className="text-lg font-medium pb-2">
             <a href="https://github.com/mohith-j/LoBerta" target="_blank">
               Improving Performance of Language Models on Logical Reasoning
@@ -51,7 +51,7 @@ function projects() {
             compared to baseline BERT Large model.
           </p>
         </div>
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  flex-1 hover:scale-110 transition-all">
           <h3 className="text-lg font-medium pb-2">
             <a
               href="https://github.com/mohith-j/capstone_project-1"
@@ -74,7 +74,7 @@ function projects() {
             findings from Exploratory Data Analysis in an IEEE Conference.
           </p>
         </div>
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  flex-1 hover:scale-110 transition-all">
           <h3 className="text-lg font-medium pb-2">
             <a href="https://github.com/mohith-j" target="_blank">
               Sports Team Web Application
@@ -93,7 +93,7 @@ function projects() {
             transitions.
           </p>
         </div>
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  flex-1 hover:scale-110 transition-all">
           <h3 className="text-lg font-medium pb-2">
             <a
               href="https://github.com/mohith-j/Facial-Detection-based-Attendance-Management-System"
@@ -113,7 +113,7 @@ function projects() {
             UI.
           </p>
         </div>
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  flex-1 hover:scale-110 transition-all">
           <h3 className="text-lg font-medium pb-2">
             <a
               href="https://github.com/mohith-j/Apartment-Rental"

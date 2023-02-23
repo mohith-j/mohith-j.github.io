@@ -6,12 +6,12 @@ function experience() {
   return (
     <div id="experience">
       <div>
-        <h3 className="text-3xl text-teal-600 text-center py-1  dark:text-white ">
+        <h3 className="text-3xl text-teal-600 text-center py-1">
           Work Experience
         </h3>
       </div>
       <div className="mt-5 lg:flex gap-10">
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 hover:scale-110 transition-all flex-1">
           <center>
             <img className="r" src={Wipro} width={100} height={100} />
           </center>
@@ -44,7 +44,7 @@ function experience() {
             <img className="r" src={Tableau} width={100} height={100} />
           </div> */}
         </div>
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 hover:scale-110 transition-all flex-1">
           <center>
             <img src={Nlcindia} width={85} height={100} />
           </center>

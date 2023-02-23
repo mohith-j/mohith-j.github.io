@@ -5,12 +5,12 @@ function research() {
   return (
     <section id="research">
       <div>
-        <h3 className="text-3xl text-teal-600 text-center py-1  dark:text-white ">
+        <h3 className="text-3xl text-teal-600 text-center py-1">
           Research Papers
         </h3>
       </div>
       <div className="mt-5 lg:flex gap-10">
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10  dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 flex-1 hover:scale-110 transition-all">
           <h3 className="text-lg font-medium pb-2">
             <a
               href="https://ieeexplore.ieee.org/document/9590113"
@@ -44,7 +44,7 @@ function research() {
               <p className="text-gray-800 py-1">Figma</p>
               <p className="text-gray-800 py-1">Indesign</p> */}
         </div>
-        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 dark:bg-white flex-1">
+        <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 flex-1 hover:scale-110 transition-all">
           <h3 className="text-lg font-medium pb-2">
             <a
               href="https://www.irjet.net/archives/V8/i9/IRJET-V8I912.pdf"

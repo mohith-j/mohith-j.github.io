@@ -20,65 +20,65 @@ import Docker from "../resources/skills/docker.png"
 function skill(){
     return(
         <div className="w-full grid grid-cols-{6} sm:grid-cols-4 gap-8 text-center py-8">
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Python}/>
                 <p className="mt-2">Python</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Java}/>
                 <p className="mt-2">Java</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Javascript}/>
                 <p className="mt-2">JavaScript</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Tailwind}/>
                 <p className="mt-2">Tailwind</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={ReactJS}/>
                 <p className="mt-2">React.JS</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={VueJS}/>
                 <p className="mt-2">Vue.JS</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={NodeJS}/>
                 <p className="mt-2">Node.JS</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Php}/>
                 <p className="mt-2">PHP</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Springboot}/>
                 <p className="mt-2">Spring Boot</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Postgresql}/>
                 <p className="mt-2">PostgreSQL</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Mysql}/>
                 <p className="mt-2">MySQL</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Mongodb}/>
                 <p className="mt-2">MongoDB</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Firebase}/>
                 <p className="mt-2">FireBase</p>
             </div>
-            <div className="text-center shadow-lg p-3 rounded-xl">
+            <div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Aws}/>
                 <p className="mt-2">AWS</p>
-            </div><div className="text-center shadow-lg p-3 rounded-xl">
+            </div><div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-[140px] mx-auto" src={Tableau}/>
                 <p className="mt-2">Tableau</p>
-            </div><div className="text-center shadow-lg p-3 rounded-xl">
+            </div><div className="text-center shadow-lg p-3 rounded-xl hover:scale-110 transition-all">
                 <img className="w-20 mx-auto" src={Docker}/>
                 <p className="mt-2">Docker</p>
             </div>
