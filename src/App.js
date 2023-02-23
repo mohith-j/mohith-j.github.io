@@ -3,7 +3,9 @@ import ProfileImage from "./components/profileimage.js";
 import Intro from "./components/intro.js";
 import SocialMedia from "./components/socialmedia.js"
 import Skills from "./components/skills.js";
-import Experience from "./components/experience.js"
+import Experience from "./components/experience.js";
+import Research from "./components/research.js";
+import Projects from "./components/projects.js"
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <SocialMedia/>
       <Skills/>
       <Experience/>
+      <Research/>
+      <Projects/>
     </section>
   );
 }
