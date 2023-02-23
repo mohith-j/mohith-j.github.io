@@ -3,7 +3,7 @@ import { AiFillGithub } from "react-icons/ai";
 
 function projects() {
   return (
-    <section>
+    <section id="projects">
       <div>
         <h3 className="text-3xl text-teal-600 text-center py-1  dark:text-white ">
           Projects

@@ -4,7 +4,7 @@ import Nlcindia from "../resources/nlcindia.png";
 
 function experience() {
   return (
-    <div>
+    <div id="experience">
       <div>
         <h3 className="text-3xl text-teal-600 text-center py-1  dark:text-white ">
           Work Experience

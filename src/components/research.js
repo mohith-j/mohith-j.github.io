@@ -3,7 +3,7 @@ import { BiLinkExternal } from "react-icons/bi";
 
 function research() {
   return (
-    <section>
+    <section id="research">
       <div>
         <h3 className="text-3xl text-teal-600 text-center py-1  dark:text-white ">
           Research Papers

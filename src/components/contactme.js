@@ -3,7 +3,7 @@ import { AiFillMail, AiFillLinkedin } from "react-icons/ai";
 
 function contactme() {
   return (
-    <div className="mb-10">
+    <div className="mb-10" id="contact">
       <h3 className="text-3xl text-teal-600 text-center py-1  dark:text-white ">
         Contact Me
       </h3>
