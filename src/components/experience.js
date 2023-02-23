@@ -1,10 +1,6 @@
 import React from "react";
 import Wipro from "../resources/wipro.png";
-// import Osisoftpi from "../resources/osisoft.png";
-// import Tableau from "../resources/skills/tableau.png"
-import Nlcindia from "../resources/nlcindia.png"
-// import {DiJqueryLogo, DiPhp} from "react-icons/di";
-// import {SiMysql} from "react-icons/si";
+import Nlcindia from "../resources/nlcindia.png";
 
 function experience() {
   return (

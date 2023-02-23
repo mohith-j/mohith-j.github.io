@@ -5,7 +5,8 @@ import SocialMedia from "./components/socialmedia.js"
 import Skills from "./components/skills.js";
 import Experience from "./components/experience.js";
 import Research from "./components/research.js";
-import Projects from "./components/projects.js"
+import Projects from "./components/projects.js";
+import Contactme from "./components/contactme.js"
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Experience/>
       <Research/>
       <Projects/>
+      <Contactme/>
     </section>
   );
 }
