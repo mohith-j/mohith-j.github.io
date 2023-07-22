@@ -1,5 +1,6 @@
 import React from "react";
 import { HashLink as Link } from "react-router-hash-link";
+import Resume from "../resources/Mohith Resume.pdf";
 
 function navbar() {
   return (
@@ -9,7 +10,7 @@ function navbar() {
         <li className="mx-5 hover:scale-125 transition-all">
           <a
             className="bg-gradient-to-t from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
-            href="https://drive.google.com/file/d/1DodBAk9550G5Cjg0H36y0W3sPvsd-gD1/view?usp=sharing"
+            href={Resume}
             target="_blank"
           >
             Resume

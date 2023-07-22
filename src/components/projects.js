@@ -20,7 +20,7 @@ function projects() {
               <AiFillGithub className="inline-block ml-1" />
             </a>
             <p className="text-sm font-light">
-              Scala, Spark SQL, React, Finagle API, Deck.gl
+            Spark SQL, Scala, Finagle API, React, Deck.gl, JavaScript
             </p>
           </h3>
           <p className="py-2 text-[13px]">
