@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://sombriks.github.io/static/css/main.02352de5.css",
-    "main.js": "https://sombriks.github.io/static/js/main.5840d813.js",
-    "static/js/787.1ed0c42c.chunk.js": "https://sombriks.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/wipro.png": "https://sombriks.github.io/static/media/wipro.37cb66a1d877eec0aae3.png",
-    "static/media/Mohith Resume.pdf": "https://sombriks.github.io/static/media/Mohith Resume.a92e60e4a0500973a5d2.pdf",
-    "static/media/nlcindia.png": "https://sombriks.github.io/static/media/nlcindia.6cae07f8a5218784ccf8.png",
-    "static/media/MohithPic.jpeg": "https://sombriks.github.io/static/media/MohithPic.6ead5146da72eb90a509.jpeg",
-    "static/media/iquadra.png": "https://sombriks.github.io/static/media/iquadra.a8c3d9e015ada951dce9.png",
-    "index.html": "https://sombriks.github.io/index.html",
-    "main.02352de5.css.map": "https://sombriks.github.io/static/css/main.02352de5.css.map",
-    "main.5840d813.js.map": "https://sombriks.github.io/static/js/main.5840d813.js.map",
-    "787.1ed0c42c.chunk.js.map": "https://sombriks.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "https://mohith-j.github.io/static/css/main.02352de5.css",
+    "main.js": "https://mohith-j.github.io/static/js/main.3fb9cb5a.js",
+    "static/js/787.1ed0c42c.chunk.js": "https://mohith-j.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/wipro.png": "https://mohith-j.github.io/static/media/wipro.37cb66a1d877eec0aae3.png",
+    "static/media/Mohith Resume.pdf": "https://mohith-j.github.io/static/media/Mohith Resume.a92e60e4a0500973a5d2.pdf",
+    "static/media/nlcindia.png": "https://mohith-j.github.io/static/media/nlcindia.6cae07f8a5218784ccf8.png",
+    "static/media/MohithPic.jpeg": "https://mohith-j.github.io/static/media/MohithPic.6ead5146da72eb90a509.jpeg",
+    "static/media/iquadra.png": "https://mohith-j.github.io/static/media/iquadra.a8c3d9e015ada951dce9.png",
+    "index.html": "https://mohith-j.github.io/index.html",
+    "main.02352de5.css.map": "https://mohith-j.github.io/static/css/main.02352de5.css.map",
+    "main.3fb9cb5a.js.map": "https://mohith-j.github.io/static/js/main.3fb9cb5a.js.map",
+    "787.1ed0c42c.chunk.js.map": "https://mohith-j.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02352de5.css",
-    "static/js/main.5840d813.js"
+    "static/js/main.3fb9cb5a.js"
   ]
 }
