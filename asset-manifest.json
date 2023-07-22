@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://sombriks.github.io/static/css/main.02352de5.css",
-    "main.js": "https://sombriks.github.io/static/js/main.d7198dec.js",
+    "main.js": "https://sombriks.github.io/static/js/main.5840d813.js",
     "static/js/787.1ed0c42c.chunk.js": "https://sombriks.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/wipro.png": "https://sombriks.github.io/static/media/wipro.37cb66a1d877eec0aae3.png",
     "static/media/Mohith Resume.pdf": "https://sombriks.github.io/static/media/Mohith Resume.a92e60e4a0500973a5d2.pdf",
@@ -10,11 +10,11 @@
     "static/media/iquadra.png": "https://sombriks.github.io/static/media/iquadra.a8c3d9e015ada951dce9.png",
     "index.html": "https://sombriks.github.io/index.html",
     "main.02352de5.css.map": "https://sombriks.github.io/static/css/main.02352de5.css.map",
-    "main.d7198dec.js.map": "https://sombriks.github.io/static/js/main.d7198dec.js.map",
+    "main.5840d813.js.map": "https://sombriks.github.io/static/js/main.5840d813.js.map",
     "787.1ed0c42c.chunk.js.map": "https://sombriks.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02352de5.css",
-    "static/js/main.d7198dec.js"
+    "static/js/main.5840d813.js"
   ]
 }
