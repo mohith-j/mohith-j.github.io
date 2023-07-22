@@ -13,7 +13,7 @@ import Footer from "./components/footer.js"
 function App() {
   return (
     <section className="bg-white px-10 mx-20">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.REACT_APP_URI}>
         <NavBar className="min-h-screen"/>
         <ProfileImage/>
         <Intro/>
