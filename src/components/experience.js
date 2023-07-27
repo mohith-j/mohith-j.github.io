@@ -13,24 +13,29 @@ function experience() {
       </div>
       <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 hover:scale-110 transition-all flex-1">
         <center>
-          <img src={Iquadra} width={85} height={100} />
+          <img src={Iquadra} width={85} height={100} alt="iquadra logo"/>
         </center>
         <h3 className="text-lg font-medium pt-8 pb-2 ">
           Full Stack Developer Intern, iQuadra Information Services LLC.,
           Atlanta
           <p className="text-sm font-light">
-            HTML, CSS, Tailwind, Javascript, React, Redux, NodeJS, AWS(Lambda, API
-            Gateway, PostgreSQL)
+            HTML, CSS, Tailwind, Javascript, React, Redux, NodeJS, AWS(Lambda,
+            API Gateway, PostgreSQL)
           </p>
         </h3>
         <p className="py-2 text-[13px]">
-          Employed Python & NLP based web scraping to support the iQuizUAnswer
-          marketing team in outreach activities
+          Architected serverless PCQueue web app, allowing project coordinators
+          to monitor jobs & track the status of orders in real-time using React,
+          Springboot & AWS
         </p>
         <p className="py-2 text-[13px]">
-          Engineered a serverless full-stack app using React & AWS(Lambda, API
-          Gateway, PostgreSQL) empowering the marketing team with an interactive
-          dashboard to access web scrapped data
+          Designed an NLP based web scraping using spaCy, esclating iQuizUAnswer
+          marketing productivity by 55% in outreach activities cutting down
+          manual search
+        </p>
+        <p className="py-2 text-[13px]">
+          Engineered a full-stack app empowering the marketing team with an
+          interactive dashboard to access web scrapped data
         </p>
         {/* <div className="flex justify-center gap-4">
             <DiJqueryLogo className="text-[70px]" />
@@ -46,7 +51,7 @@ function experience() {
       <div className="mt-5 lg:flex gap-10">
         <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 hover:scale-110 transition-all flex-1">
           <center>
-            <img className="r" src={Wipro} width={100} height={100} />
+            <img className="r" src={Wipro} width={100} height={100} alt="wipro logo"/>
           </center>
           <h3 className="text-lg font-medium pt-8 pb-2  ">
             OSIsoft PI Developer, Wipro Limited, Bengaluru
@@ -81,7 +86,7 @@ function experience() {
         </div>
         <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 hover:scale-110 transition-all flex-1">
           <center>
-            <img src={Nlcindia} width={85} height={100} />
+            <img src={Nlcindia} width={85} height={100} alt="nlc logo"/>
           </center>
           <h3 className="text-lg font-medium pt-8 pb-2 ">
             Software Developer Intern, NLC India Limited, Chennai
