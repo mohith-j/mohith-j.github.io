@@ -13,29 +13,31 @@ function experience() {
       </div>
       <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 hover:scale-110 transition-all flex-1">
         <center>
-          <img src={Iquadra} width={85} height={100} alt="iquadra logo"/>
+          <img src={Iquadra} width={85} height={100} alt="iquadra logo" />
         </center>
         <h3 className="text-lg font-medium pt-8 pb-2 ">
-          Full Stack Developer Intern, iQuadra Information Services LLC.,
+          Full Stack Developer, iQuadra Information Services.
           Atlanta
           <p className="text-sm font-light">
-            HTML, CSS, Tailwind, Javascript, React, Redux, NodeJS, AWS(Lambda,
+            Python, Java, Javascript, HTML, CSS, Tailwind, React, Redux, NodeJS, AWS(Lambda,
             API Gateway, PostgreSQL)
           </p>
         </h3>
         <p className="py-2 text-[13px]">
-          Architected serverless PCQueue web app, allowing project coordinators
-          to monitor jobs & track the status of orders in real-time using React,
-          Springboot & AWS
+          Engineered serverless Manufacturing Queue web apps, allowing Bernard Group’s warehouse coordinators to monitor jobs &
+          track the status of orders
         </p>
         <p className="py-2 text-[13px]">
-          Designed an NLP based web scraping using spaCy, esclating iQuizUAnswer
-          marketing productivity by 55% in outreach activities cutting down
-          manual search
+          Architected AWS CloudFormation Stack for establishing duplex connections thorough Java Lambdas with dynamoDB
+          via WebSocketAPI, to stream & update operational live data, eliminating network latency by 18%
         </p>
         <p className="py-2 text-[13px]">
-          Engineered a full-stack app empowering the marketing team with an
-          interactive dashboard to access web scrapped data
+          Designed an Natural Language Processing based web scraping model using Spacy Python, esclating iQuizUAnswer
+          marketing productivity by 55% in outreach activities cutting down manual search
+        </p>
+        <p className="py-2 text-[13px]">
+          Implemented a full-stack app with Redux based React state management & Express.js backend empowering the marketing
+          team with an interactive dashboard to access web scrapped data stored in AWS RDS
         </p>
         {/* <div className="flex justify-center gap-4">
             <DiJqueryLogo className="text-[70px]" />
@@ -51,28 +53,24 @@ function experience() {
       <div className="mt-5 lg:flex gap-10">
         <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 hover:scale-110 transition-all flex-1">
           <center>
-            <img className="r" src={Wipro} width={100} height={100} alt="wipro logo"/>
+            <img className="r" src={Wipro} width={100} height={100} alt="wipro logo" />
           </center>
           <h3 className="text-lg font-medium pt-8 pb-2  ">
-            OSIsoft PI Developer, Wipro Limited, Bengaluru
+            Data Engineer, Wipro Limited, Bengaluru
             <p className="text-sm font-light">
               OSIsoft PI Data Historian, Tableau
             </p>
           </h3>
           <p className="py-2 text-[13px]">
-            Built logical schema of organisational process, performed ETL
-            procedures and carried out validation for sustainability KPI of 3
+            Built logical schema of organisational process, performed ETL procedures & carried out validation for sustainability KPI of 3
             affiliates in SABIC Corporation using the data historian software
           </p>
           <p className="py-2 text-[13px]">
-            Wrote optimized SQL queries to fetch data for each element from
-            Microsoft SQL Server to OSIsoft PI Server
+            Conducted data migration for all organizational elements from Microsoft SQL Server to OSIsoft Servers for further analytics
           </p>
           <p className="py-2 text-[13px]">
-            Designed interactive Tableau dashboards for comprehensive
-            visualization of sustainability KPI metrics, collaborating with
-            clients to identify and implement a targeted 6% reduction in CO2
-            emissions
+            Designed interactive Tableau dashboards for comprehensive visualization of sustainability KPI metrics, collaborated with
+            clients to identify & implement a targeted 6% reduction in CO2 emissions
           </p>
           {/* <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
               <p className="text-gray-800 py-1">Photoshop</p>
@@ -86,7 +84,7 @@ function experience() {
         </div>
         <div className="text-center shadow-lg py-5 px-10 rounded-xl mb-10 hover:scale-110 transition-all flex-1">
           <center>
-            <img src={Nlcindia} width={85} height={100} alt="nlc logo"/>
+            <img src={Nlcindia} width={85} height={100} alt="nlc logo" />
           </center>
           <h3 className="text-lg font-medium pt-8 pb-2 ">
             Software Developer Intern, NLC India Limited, Chennai
