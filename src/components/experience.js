@@ -36,7 +36,7 @@ function experience() {
           marketing productivity by 55% in outreach activities cutting down manual search
         </p>
         <p className="py-2 text-[13px]">
-          Implemented a full-stack app with Redux based React state management & Express.js backend empowering the marketing
+          Implemented a full-stack app with Redux based React state management & Vert.x backend empowering the marketing
           team with an interactive dashboard to access web scrapped data stored in AWS RDS
         </p>
         {/* <div className="flex justify-center gap-4">
