@@ -1,6 +1,6 @@
 import React from "react";
 import { HashLink as Link } from "react-router-hash-link";
-import Resume from "../resources/Mohith Resume.pdf";
+import Resume from "../resources/Resume Mohith.pdf";
 
 function navbar() {
   return (
