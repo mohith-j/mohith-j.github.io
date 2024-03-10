@@ -28,7 +28,7 @@ function experience() {
           track the status of orders
         </p>
         <p className="py-2 text-[13px]">
-          Architected AWS CloudFormation Stack for establishing duplex connections thorough Java Lambdas with dynamoDB
+          Architected AWS CloudFormation Stack for establishing duplex connections thorough NodeJS Lambdas with dynamoDB
           via WebSocketAPI, to stream & update operational live data, eliminating network latency by 18%
         </p>
         <p className="py-2 text-[13px]">
@@ -36,7 +36,7 @@ function experience() {
           marketing productivity by 55% in outreach activities cutting down manual search
         </p>
         <p className="py-2 text-[13px]">
-          Implemented a full-stack app with Redux based React state management & Vert.x backend empowering the marketing
+          Implemented a full-stack app with Redux based React state management & NodeJS backend empowering the marketing
           team with an interactive dashboard to access web scrapped data stored in AWS RDS
         </p>
         {/* <div className="flex justify-center gap-4">
